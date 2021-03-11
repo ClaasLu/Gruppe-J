@@ -11,7 +11,7 @@ namespace Hello_World_Gruppe_J
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Welt");
-            Console.ReadKey(J);
+            Console.ReadKey(); //"J" funktioniert nicht so einfach
         }
     }
 }
