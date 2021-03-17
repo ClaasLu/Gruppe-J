@@ -14,6 +14,7 @@ namespace Hello_World_Gruppe_J
             //Ich will auch mitarbeiten
 
             Console.WriteLine("Hallo Welt");
+            Console.WriteLine("Hallo Whv")
             Console.ReadKey(); //"J" funktioniert nicht so einfach
         }
     }
