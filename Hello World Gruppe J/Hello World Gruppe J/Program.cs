@@ -11,8 +11,6 @@ namespace Hello_World_Gruppe_J
         static void Main(string[] args)
         {
 
-            //Ich will auch mitarbeiten
-
             Console.WriteLine("Hallo Welt");
 
             Console.WriteLine("drücke beliebige Taste zum beenden!");
