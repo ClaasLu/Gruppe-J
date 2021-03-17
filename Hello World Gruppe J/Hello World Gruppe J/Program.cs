@@ -13,7 +13,7 @@ namespace Hello_World_Gruppe_J
 
             Console.WriteLine("Hallo Welt");
 
-            Console.WriteLine("drücke beliebige Taste zum beenden!");
+            Console.WriteLine("Drücke beliebige Taste zum beenden!");
 
             Console.ReadKey();
             
