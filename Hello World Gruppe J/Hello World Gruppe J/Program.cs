@@ -12,7 +12,11 @@ namespace Hello_World_Gruppe_J
         {
 
 
+<<<<<<< HEAD
             Console.WriteLine("Hallo Herr Lühring !"); // Herr Lühring grüßen
+=======
+            Console.WriteLine("Hallo Prof. Mecke!");
+>>>>>>> e16ad6441d32ee9139418643922d1d2ad2e9f5f3
 
 
 
