@@ -11,14 +11,14 @@ namespace Hello_World_Gruppe_J
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hallo Welt");
+            Console.WriteLine("Hallo Lara");
 
 
 
             Console.WriteLine("Drücke beliebige Taste zum beenden!"); //Text
 
 
-            Console.ReadKey(); //Taste beendet Programm
+            Console.ReadKey(); //Taste beendet das Programm
             
         }
     }
