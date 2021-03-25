@@ -15,7 +15,7 @@ namespace Hello_World_Gruppe_J
 
 
 
-            Console.WriteLine("Drücke beliebige Taste zum beenden!"); //Hallo
+            Console.WriteLine("Drücke beliebige Taste zum beenden!"); 
 
 
             Console.ReadKey();
