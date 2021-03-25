@@ -15,10 +15,10 @@ namespace Hello_World_Gruppe_J
 
 
 
-            Console.WriteLine("Drücke beliebige Taste zum beenden!"); 
+            Console.WriteLine("Drücke beliebige Taste zum beenden!"); //Text
 
 
-            Console.ReadKey();
+            Console.ReadKey(); //Taste beendet Programm
             
         }
     }
