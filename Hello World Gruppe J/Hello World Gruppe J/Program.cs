@@ -12,7 +12,7 @@ namespace Hello_World_Gruppe_J
         {
 
 
-            Console.WriteLine("Hallo Lara!");
+            Console.WriteLine("Hallo Prof. Mecke!");
 
 
 
